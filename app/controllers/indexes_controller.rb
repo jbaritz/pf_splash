@@ -1,7 +1,7 @@
 class IndexesController < ApplicationController
 
 	def index
-		render 'index.html.erb'
+		render 'indexes/index'
 	end 
 
 end
